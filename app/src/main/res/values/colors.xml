@@ -9,12 +9,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="gray">#E6E8F5</color>
-    <color name="blue_gray">#AEBEE5</color>
+    <color name="gray">#ffe8e8</color>
+    <color name="blue_gray">#ffd9d9</color>
 
-    <color name="blue">#153372</color>
-    <color name="dot_blue">#012F50</color>
+    <color name="blue">#4714d6</color>
+    <color name="dot_blue">#5928e5</color>
 
-    <color name="morning_blue">#26a0f6</color>
-    <color name="afternoon_orange">#EA6710</color>
+    <color name="morning_blue">#8d66fd</color>
+    <color name="afternoon_orange">#8d66fd</color>
 </resources>
